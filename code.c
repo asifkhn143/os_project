@@ -3,8 +3,8 @@
 int main()
 {
 
-  int res;          // number of resources
-  int num;          // number of process
+  int res;         // number of resources
+  int num;         // number of process
        
   int i,j,k,cnt,cnt1;
   int a[20],b[20];
